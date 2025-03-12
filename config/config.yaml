@@ -1,0 +1,7 @@
+- Configuration:
+  client_id: 
+  client_secret: 
+  resource: https://purview.azure.net
+  tenant_id: 
+  purview_account_name: 
+  
